@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/xukopop-website/static/css/main.d306660d.css",
-    "main.js": "/xukopop-website/static/js/main.3a59528e.js",
-    "index.html": "/xukopop-website/index.html",
-    "main.d306660d.css.map": "/xukopop-website/static/css/main.d306660d.css.map",
-    "main.3a59528e.js.map": "/xukopop-website/static/js/main.3a59528e.js.map"
+    "main.css": "/static/css/main.d306660d.css",
+    "main.js": "/static/js/main.9bd9db12.js",
+    "index.html": "/index.html",
+    "main.d306660d.css.map": "/static/css/main.d306660d.css.map",
+    "main.9bd9db12.js.map": "/static/js/main.9bd9db12.js.map"
   },
   "entrypoints": [
     "static/css/main.d306660d.css",
-    "static/js/main.3a59528e.js"
+    "static/js/main.9bd9db12.js"
   ]
 }
