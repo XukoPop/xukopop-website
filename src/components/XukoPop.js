@@ -132,8 +132,8 @@ const XukoPop = () => {
         <div className="text-center mb-24">
           <div className="flex justify-center mb-8">
             <img 
-              src="/profile.png" 
-              alt="XukoPop Bot" 
+              src={process.env.PUBLIC_URL + '/profile.png'}
+              alt="XukoPop Bot"
               className="w-32 h-32 rounded-full border-4 border-indigo-600 shadow-lg"
             />
           </div>
